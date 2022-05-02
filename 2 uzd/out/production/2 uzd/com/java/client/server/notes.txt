@@ -1,0 +1,8 @@
+javac Server.java
+javac Client.java
+javac ClientThread.java
+javac ReaderThread.java
+javac WriterThread.java
+
+java com.java.client.server.Server 5432
+java com.java.client.server.Client 127.0.0.1 5432

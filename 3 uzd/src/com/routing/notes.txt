@@ -1,0 +1,2 @@
+javac Main.java Message.java Node.java NodeComparator.java
+java com.routing.Main

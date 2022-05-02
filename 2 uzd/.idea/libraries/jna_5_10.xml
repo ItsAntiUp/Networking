@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jna-5.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/com/java/client/server/jna-5.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,6 @@
+javac -cp jna-5.10.0.jar Client.java ReaderThread.java WriterThread.java RawConsoleInput.java
+
+java -cp "com/java/client/server/jna-5.10.0.jar"; com.java.client.server.Client shell.riftus.lt 6667
+java -cp "com/java/client/server/jna-5.10.0.jar"; com.java.client.server.Client irc.libera.chat 6667
+
+(6667 plain text, 6697 - TLS)

@@ -1,0 +1,5 @@
+gcc client.c -o client.exe -lws2_32
+gcc server.c -o server.exe -lws2_32
+gcc multiserver.c -o multiserver.exe -lws2_32
+multiserver 5432
+client 127.0.0.1 5432
